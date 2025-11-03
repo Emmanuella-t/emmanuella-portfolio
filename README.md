@@ -1,61 +1,102 @@
 # Emmanuella Turkson's Personal Portfolio 🌸👩🏽‍💻
-This repository will host my personal portfolio website - a space where my journey in **software engineering, AI/UX, research, and purpose-driven leadership** comes together.
 
-It will feature:
+This repository will host my personal portfolio website - a digital home for my journey across **software engineering, AI/UX, research, and purpose-driven leadership**.
 
-- Engineering + Design projects
-- AI + research work
-- UI/UX case studies
-- Community and mission-driven initiatives
-- Achievements, honors, speaking & leadership
-- Faith-centered writing + reflections (optional blog)
+Here, I blend technology, storytelling, and service to God and community - building solutions with heart, clarity, and excellence.
 
 ---
 
-## 🎯 Goals
-- Create a clean, modern, inspiring portfolio
-- Showcase not just projects — but story, values, and growth
-- Inspire young women in tech & faith
-- Serve as a professional landing page for internships, fellowships, and future opportunities
+## 🎯 Purpose
+- Build a clean, modern, inspiring portfolio
+- Showcase projects through story, values, and impact
+- Reflect my journey as a woman of faith in tech
+- Serve as a launchpad for internships, fellowships, speaking, and collaborations
+- Inspire young women in tech and purpose to believe, build, and shine
 
 ---
 
 ## 🛠 Tech Stack (Planned)
-- Flutter Web **or** Next.js (decision pending)
-- Tailwind + custom soft UI themes
-- Smooth animations + subtle gradients
-- Integrated blog / project pages
-- Possible AI assistant component later ✨
+- Flutter Web **or** Next.js (TBD)
+- Tailwind + soft UI aesthetic
+- Motion & smooth transitions
+- Integrated blog / reflections
 
 ---
 
-## 📂 Structure
+## 🚧 Site Structure
+*(will evolve as the portfolio develops)*
+
+- Home 
+- About 
+- Projects (Engineering & Design)
+- Internships & Experience
+- Impact & Service
+- Faith Reflections
+- Digital Presence 
+- Contact & Collaborations
 
 ---
 
 ## 🚀 Roadmap
-- [ ] Style direction + color palette
-- [ ] Build About, Projects, Contact pages
-- [ ] Animate hero section
-- [ ] Add blog / journal section
-- [ ] Deploy & connect custom domain
+- [ ] Brand style direction + visual identity
+- [ ] Hero + About + Contact pages
+- [ ] Engineering & UX Project sections
+- [ ] Blog & Reflection journal
+- [ ] Launch + custom domain
+
+## 👩🏽‍💻 Engineering & AI Projects
+- AI Security Analyzer (Dell)
+- Catalyst ML Research (LBNL)
+- MindMate Wellness App
+- TSP Algorithms & Visualization
+- Additional personal & internship projects
+
+## 🎨 UX & Product Design
+- Figma prototypes
+- UX research & case studies
+- Design systems & accessibility
+
+## 💼 Internships & Industry Experience
+**Dell Technologies — Software Engineering Intern (2025)**
+- AI CLI vulnerability analyzer
+- Security + automation + LLM reasoning
+
+**Lawrence Berkeley National Lab — Data Science Research Intern**
+- CNN modeling for catalyst selectivity
+- Scientific coding + ML research workflow
+
+**CFPB Track (Future/If applicable)**
+- Financial wellness design + research
+
+## 🌍 Social Impact & Nonprofit Work
+- Save Our World mission & youth outreach
+- 3-day orphanage support experience
+- Relationship-based mentorship & faith service
+
+## ✝️ Faith & Purpose
+- Reflections, devotionals, journal
+- Leadership as ministry
+- Scripture-rooted encouragement
+
+## 📣 Digital Presence & Content Creation
+- Instagram | Substack | Speaking moments
+- Tech, faith, community, storytelling
+- Student mentorship & encouragement
+
+## 🏆 Honors & Scholarships
+- George Taylor Scholar
+- McKinley Newton Honors Academy
+- Splunk HBCU Scholar, Last Mile Fund, RTC, and more
+
+## 📬 Connect
+- Work with me
+- Speaking invitations
+- Mentorship + collaborations
 
 ---
 
-## ✨ Vision
-A digital home that reflects:
+## 🌿 Scripture Foundation
+> "Let your light so shine before others, that they may see your good works and glorify your Father in heaven." - Matthew 5:16
 
-- Warmth + faith + excellence
-- Engineering depth
-- Creative design thinking
-- Leadership and heart for service
-
-This is a message. A testimony. A journey.
-
----
-
-## 🌿 Scripture for Foundation
-> *“Let your light so shine before others, that they may see your good works and glorify your Father in heaven.” — Matthew 5:16*
-
-Let this platform shine with grace, clarity, and purpose.
+May this space reflect grace, truth, and excellence.
 
