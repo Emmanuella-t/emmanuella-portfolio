@@ -1,5 +1,5 @@
 # Emmanuella Turkson's Personal Portfolio 🌸👩🏽‍💻
-This repository will host my personal portfolio website — a space where my journey in **software engineering, AI/UX, research, and purpose-driven leadership** comes together.
+This repository will host my personal portfolio website - a space where my journey in **software engineering, AI/UX, research, and purpose-driven leadership** comes together.
 
 It will feature:
 
